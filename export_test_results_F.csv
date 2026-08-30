@@ -1,0 +1,10 @@
+"Test","H0","P_Value","Decision","Result","Selected_Model","Regression_Period","Observations","Countries"
+"Breusch-Pagan LM","No individual panel effects",0.102106183587023,"Do not reject H0","Not significant","Pooled OLS","2011-2024",98,7
+"F-test (FE vs OLS)","No individual fixed effects",0.983784864918503,"Do not reject H0","Not significant","Pooled OLS","2011-2024",98,7
+"Hausman (Standard)","RE consistent",0.996754472564573,"Do not reject H0","Not significant","Pooled OLS","2011-2024",98,7
+"Hausman (Auxiliary)","RE consistent (robust)",0.996754472564573,"Do not reject H0","Not significant","Pooled OLS","2011-2024",98,7
+"Time FE Test","No time fixed effects",0.0818689639979793,"Do not reject H0","Not significant","Pooled OLS","2011-2024",98,7
+"Heteroscedasticity (BP)","Homoscedastic errors",9.46452122530414e-05,"Reject H0","Significant","Pooled OLS","2011-2024",98,7
+"White Test","Homoscedastic errors (general form)",0.000892532277036429,"Reject H0","Significant","Pooled OLS","2011-2024",98,7
+"Autocorrelation (pbgtest)","No serial correlation",0.00749663850897776,"Reject H0","Significant","Pooled OLS","2011-2024",98,7
+"Cross-Sectional Dependence","No cross-sectional dependence",0.0332849332889797,"Reject H0","Significant","Pooled OLS","2011-2024",98,7
