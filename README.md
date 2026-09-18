@@ -217,20 +217,20 @@ mena-broad-money-inflation/
 ├── README.md
 ├── .gitignore
 │
-├── data/
+├── Raw_Data/
 │   ├── mena_panel_data.csv
 │   └── data_dictionary.md
 │
-├── R/
+├── Script_R/
 │   └── mena_analysis_script.R
 │
-├── dashboard/
+├── Dashboard_BI/
 │   └── MENA_analysis_Dashboard.pdf
 │
-├── report/
+├── Final_Report/
 │   └── MENA_analysis_Report.pdf
 │
-├── outputs/
+├── output_Data/
 │   ├── export_panel_data_F.csv
 │   ├── export_desc_stats_F.csv
 │   ├── export_fixed_effects_F.csv
@@ -241,7 +241,7 @@ mena-broad-money-inflation/
 │   ├── export_test_results_F.csv
 │   └── export_adf_results_F.csv
 │
-└── figures/
+└── Visualisation_Image_R/
     ├── viz_01_inflation_trend.png
     ├── viz_02_money_trend.png
     ├── viz_03_depreciation_trend.png
