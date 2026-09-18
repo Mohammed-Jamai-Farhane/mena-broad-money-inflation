@@ -197,26 +197,6 @@ Residuals, model diagnostics and robustness results.
 
 ---
 
-## 🧠 Economic Framework
-
-The theoretical foundation is the **Quantity Theory of Money**:
-
-\[
-MV = PY
-\]
-
-which implies:
-
-\[
-\pi \approx \mu + v - g
-\]
-
-where:
-
-- \(\pi\) = inflation
-- \(\mu\) = money growth
-- \(v\) = velocity growth
-- \(g\) = real GDP growth
 
 The analysis also considers:
 
