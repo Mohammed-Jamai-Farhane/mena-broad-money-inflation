@@ -1,4 +1,0 @@
-"variable","estimate","se","t_stat","p_value","ci_low","ci_high","significant","significant_label","stars","model","observations","countries","period_start","period_end","standard_errors"
-"Broad Money Growth",0.435979247299605,0.0619426006844112,7.03843949854249,3.13588166846117e-10,0.314571749958159,0.557386744641051,TRUE,"Significant","***","Pooled OLS",98,7,2011,2024,"HC3 country-clustered"
-"GDP Growth",-0.147683224760773,0.240437161603182,-0.614227949523503,0.540548496304723,-0.618940061503009,0.323573611981462,FALSE,"Not Significant","","Pooled OLS",98,7,2011,2024,"HC3 country-clustered"
-"Depreciation Rate",0.376823298230108,0.0864094785541803,4.36090235163071,3.31372392622666e-05,0.207460720263915,0.546185876196301,TRUE,"Significant","***","Pooled OLS",98,7,2011,2024,"HC3 country-clustered"

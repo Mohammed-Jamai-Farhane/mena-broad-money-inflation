@@ -1,0 +1,8 @@
+country,fixed_effect,fixed_effect_centered,direction
+Jordan,0.936403134,1.135501861,Above panel mean
+Algeria,0.049675556,0.248774283,Above panel mean
+Turkiye,-0.124402196,0.074696531,Above panel mean
+Tunisia,-0.13659135,0.062507377,Above panel mean
+Saudi Arabia,-0.544360395,-0.345261668,Below panel mean
+Morocco,-0.691790837,-0.49269211,Below panel mean
+Egypt,-0.882625,-0.683526274,Below panel mean

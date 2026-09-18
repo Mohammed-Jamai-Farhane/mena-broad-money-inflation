@@ -1,4 +1,0 @@
-"variable","estimate","se","t_stat","p_value","ci_low","ci_high","significant","significant_label","stars","model","observations","countries","period_start","period_end","standard_errors"
-"Broad Money Growth",0.435979247299605,0.100204405306642,4.35089900454411,3.44197803645726e-05,0.239578612898586,0.632379881700624,TRUE,"Significant","***","Pooled OLS",98,7,2011,2024,"Driscoll-Kraay"
-"GDP Growth",-0.147683224760773,0.147653228016832,-1.00020315670944,0.319780020868761,-0.437083551673764,0.141717102152217,FALSE,"Not Significant","","Pooled OLS",98,7,2011,2024,"Driscoll-Kraay"
-"Depreciation Rate",0.376823298230108,0.0739707162344646,5.09422265205184,1.80036157275157e-06,0.231840694410557,0.521805902049659,TRUE,"Significant","***","Pooled OLS",98,7,2011,2024,"Driscoll-Kraay"

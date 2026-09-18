@@ -1,0 +1,5 @@
+"Model","R2_Type","R2","Observations","Countries"
+"Pooled OLS","Overall",0.8003,98,7
+"FE Individual","Within",0.6795,98,7
+"FE Two-way","Within",0.6673,98,7
+"Random Effects","Overall",0.8003,98,7
